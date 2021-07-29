@@ -6,7 +6,7 @@ class LendingApp extends React.Component {
 
 	render() {
 		return (
-			<div style={theme.container}>
+			<div style={theme.app}>
 				<LoanForm />
 			</div>
 		);

@@ -7,9 +7,10 @@ const LANGUAGE = {
 	'LBL_REQUESTED_AMOUNT_ERROR': 'Please enter a Requested Amount',
 	'LBL_BUTTON_APPLY': 'Apply',
     'LBL_IS_NOT_CONNECTED': 'We are having server problems. Please contact the administrator.',
-    'LBL_DECLINED': 'Declined',
-    'LBL_APPROVED': 'Approved',
-    'LBL_UNDECIDED': 'Undecided',
+    'LBL_DECLINED': 'Your loan has been Declined',
+    'LBL_APPROVED': 'Your loan has been Approved',
+    'LBL_UNDECIDED': 'Your loan cannot be Decided',
+    'LBL_LENDING': 'Lending Loans'
 };
 
 export default LANGUAGE;
